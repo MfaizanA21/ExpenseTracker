@@ -1,4 +1,4 @@
-# new_abc
+# ExpenseTracker
 
 A new Flutter project.
 
